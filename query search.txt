@@ -1,0 +1,18 @@
+- for in javascript
+- print array in one line javascript
+- find text in string javascript then print
+- how to get text in string paragraph js
+- match string with spaces
+- delete some text in string paragraphs
+- search some text in string js
+- replace all javascript
+- check string with regex javascript
+- regex match javascript
+- validasi panjang karakter javascript dengan regex
+- math max min array
+- check value in array javascript
+- compare number in array javascript
+- bilangan cacah
+- to array javascript
+- pattern cross js
+- array 2d javascript
